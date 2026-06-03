@@ -6,7 +6,6 @@
 
 *Systèmes & Réseaux · Cybersécurité · Développement Web*
 
-[![Localisation](https://img.shields.io/badge/📍_Les_Herbiers,_France-grey?style=flat-square)](https://github.com/sanjiexe28)
 
 </div>
 
