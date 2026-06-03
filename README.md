@@ -1,46 +1,74 @@
-# Hey, moi c'est Sanji 👋
+<div align="center">
 
-Passionné d'infra, de sécu, de dev et de tout ce qui clignote dans un rack.  
-Je construis des trucs, je les casse, je les rebuild mieux.
+# Sanji
+
+**BTS SIO · SISR**
+
+*Systèmes & Réseaux · Cybersécurité · Développement Web*
+
+[![Localisation](https://img.shields.io/badge/📍_Les_Herbiers,_France-grey?style=flat-square)](https://github.com/sanjiexe28)
+
+</div>
 
 ---
 
-## 🧰 Ce sur quoi je bosse
+## À propos
 
-- 🏠 **Home lab** — VLANs, Proxmox, Pi-hole, monitoring réseau, dashboards custom
-- 🔒 **Dev** — site web, scripts
-- 🛠️ **Sysadmin** — Linux, Nginx, Tailscale, Netdata, tout ce qui tourne sur du métal
+Étudiant en BTS SIO option SISR, je me spécialise dans l'administration systèmes et réseaux, la cybersécurité offensive et défensive, et le développement web. En parallèle de ma formation, je maintiens un home lab personnel pour expérimenter et approfondir mes compétences.
 
 ---
 
-## 🖥️ Stack & outils
+## Formations en cours
+
+| | Formation | Domaine |
+|---|---|---|
+| 🎓 | BTS SIO — option SISR | Réseaux, systèmes, administration |
+| 🔐 | Cybersécurité | Pentest, détection d'intrusion, sécurité réseau & applicative |
+| 🎮 | FiveM Development (Lua) | Scripting, ressources QBCore/ESX, intégration frameworks |
+
+---
+
+## Compétences techniques
+
+**Développement**
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+
+**Systèmes & Réseaux**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Sécurité**
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 
 ---
 
-## 🗂️ Infra home lab (aperçu)
+## Home Lab
 
-```
-┌─────────────────────────────────────┐
-│  FW01 — Netgear FVS338              │
-│  SW01 — HP ProCurve 2910al-24G      │
-│  SW02 — TP-Link Omada ES205G        │
-│                                     │
-│  SRV-RAS01 — Raspberry Pi 4         │
-│    Pi-hole · Netdata · Nginx        │
-│    Tailscale · ttyd                 │
-│                                     │
-│  SRV-SUP01 — Dell Latitude 5290     │
-│    Proxmox VE                       │
-└─────────────────────────────────────┘
-VLANs : transit · devices · servers · supervision
-```
+Infrastructure personnelle sous VLANs segmentés (transit · appareils · serveurs · supervision).
 
-> *"Si c'est pas dans un fichier de conf, ça existe pas."*
+| Rôle | Équipement | Services |
+|---|---|---|
+| Firewall | Netgear FVS338 | Filtrage, routage inter-VLAN |
+| Switch cœur | HP ProCurve 2910al-24G | Trunk 802.1Q |
+| Switch accès | TP-Link Omada ES205G | — |
+| Serveur Pi | Raspberry Pi 4 | Pi-hole · Netdata · Nginx · Tailscale · ttyd |
+| Hyperviseur | Dell Latitude 5290 | Proxmox VE |
+
+---
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjiexe28&show_icons=true&hide_border=true&theme=default&hide_title=true)
+
+</div>
