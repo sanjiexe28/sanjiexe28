@@ -4,31 +4,33 @@
 
 **BTS SIO · SISR**
 
-*Systèmes & Réseaux · Cybersécurité · Développement Web*
+*Systems & Networks · Cybersecurity · Web Development*
 
 </div>
 
 ---
 
-## À propos
+## About Me
 
-Étudiant en BTS SIO option SISR, je me spécialise dans l'administration systèmes et réseaux, la cybersécurité offensive et défensive, et le développement web. En parallèle de ma formation, je maintiens un home lab personnel pour expérimenter et approfondir mes compétences.
+Currently studying for a BTS SIO (Services Informatiques aux Organisations) with a specialization in Systems and Network Solutions (SISR). My main areas of interest are systems administration, networking, offensive and defensive cybersecurity, and web development.
+
+Alongside my studies, I maintain a personal home lab where I experiment with infrastructure, virtualization, networking, and security technologies.
 
 ---
 
-## Formations en cours
+## Current Education & Learning
 
-| | Formation | Domaine |
+| | Program | Field |
 |---|---|---|
-| 🎓 | BTS SIO — option SISR | Réseaux, systèmes, administration |
-| 🔐 | Cybersécurité | Pentest, détection d'intrusion, sécurité réseau & applicative |
-| 🎮 | FiveM Development (Lua) | Scripting, ressources QBCore/ESX, intégration frameworks |
+| 🎓 | BTS SIO — SISR | Networking, systems, infrastructure administration |
+| 🔐 | Cybersecurity | Penetration testing, intrusion detection, network & application security |
+| 🎮 | FiveM Development (Lua) | Scripting, QBCore/ESX resources, framework integration |
 
 ---
 
-## Compétences techniques
+## Technical Skills
 
-**Développement**
+### Development
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -37,7 +39,7 @@
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Systèmes & Réseaux**
+### Systems & Networking
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
@@ -45,24 +47,34 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)
 
-**Sécurité**
+### Security
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 
 ---
 
+## Languages
+
+| Language | Proficiency |
+|----------|------------|
+| 🇫🇷 French | Native |
+| 🇬🇧 English | Conversational / Professional Working Proficiency |
+| 🇪🇸 Spanish | Basic Knowledge |
+
+---
+
 ## Home Lab
 
-Infrastructure personnelle sous VLANs segmentés (transit · appareils · serveurs · supervision).
+Personal infrastructure built around segmented VLANs (transit · clients · servers · monitoring).
 
-| Rôle | Équipement | Services |
+| Role | Hardware | Services |
 |---|---|---|
-| Firewall | Netgear FVS338 | Filtrage, routage inter-VLAN |
-| Switch cœur | HP ProCurve 2910al-24G | Trunk 802.1Q |
-| Switch accès | TP-Link Omada ES205G | — |
-| Serveur Pi | Raspberry Pi 4 | Pi-hole · Netdata · Nginx · Tailscale · ttyd |
-| Hyperviseur | Dell Latitude 5290 | Proxmox VE |
+| Firewall | Netgear FVS338 | Filtering, inter-VLAN routing |
+| Core Switch | HP ProCurve 2910al-24G | 802.1Q trunking |
+| Access Switch | TP-Link Omada ES205G | — |
+| Raspberry Pi Server | Raspberry Pi 4 | Pi-hole · Netdata · Nginx · Tailscale · ttyd |
+| Hypervisor | Dell Latitude 5290 | Proxmox VE |
 
 ---
 
