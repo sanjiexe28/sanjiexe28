@@ -59,7 +59,7 @@ Alongside my studies, I maintain a personal home lab where I experiment with inf
 | Language | Proficiency |
 |----------|------------|
 | 🇫🇷 French | Native |
-| 🇬🇧 English | Conversational / Professional Working Proficiency |
+| 🇬🇧 English | Professional Working Proficiency |
 | 🇪🇸 Spanish | Basic Knowledge |
 
 ---
