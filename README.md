@@ -1,7 +1,7 @@
 <div align="center">
 
 # Sanji.exe
-> SISR Student | Systems & Networks | Cybersecurity Enthusiast | Home Lab Builder
+> BTS SIO option SISR Student | Systems & Networks | Cybersecurity Enthusiast | Home Lab Builder
 
 </div>
 
