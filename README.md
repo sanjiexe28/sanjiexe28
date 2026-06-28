@@ -1,37 +1,40 @@
 <div align="center">
 
 # Sanji.exe
-
-**BTS SIO · SISR**
-
-*Systems & Networks · Cybersecurity · Web Development*
+> SISR Student | Systems & Networks | Cybersecurity Enthusiast | Home Lab Builder
 
 </div>
 
 ---
 
-## About Me
+## 🧠 About Me
 
-Currently studying for a BTS SIO (Services Informatiques aux Organisations) with a specialization in Systems and Network Solutions (SISR). My main areas of interest are systems administration, networking, offensive and defensive cybersecurity, and web development.
+Currently studying a BTS SIO (Services Informatiques aux Organisations), specialization SISR (Systems & Network Infrastructure Solutions).
 
-Alongside my studies, I maintain a personal home lab where I experiment with infrastructure, virtualization, networking, and security technologies.
+I am passionate about:
+- Systems administration (Linux/Windows)
+- Network architecture & segmentation
+- Cybersecurity (offensive & defensive basics)
+- Web development & scripting
 
----
-
-## Current Education & Learning
-
-| | Program | Field |
-|---|---|---|
-| 🎓 | BTS SIO — SISR | Networking, systems, infrastructure administration |
-| 🔐 | Cybersecurity | Penetration testing, intrusion detection, network & application security |
-| 🎮 | FiveM Development (Lua) | Scripting, QBCore/ESX resources, framework integration |
+I actively build and maintain a **home lab environment** to experiment with real-world infrastructure, networking, and security scenarios.
 
 ---
 
-## Technical Skills
+## 🎓 Education
 
-### Development
+- 🎓 BTS SIO — SISR  
+  Systems, networks, infrastructure administration  
+- 🔐 Self-learning Cybersecurity  
+  Pentesting basics, traffic analysis, network security  
+- 🎮 FiveM Development (Lua)  
+  QBCore / ESX scripting & server customization  
 
+---
+
+## 🧰 Technical Skills
+
+### 💻 Development
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -39,47 +42,89 @@ Alongside my studies, I maintain a personal home lab where I experiment with inf
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Systems & Networking
-
+### 🖧 Systems & Networking
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)
 
-### Security
-
+### 🔐 Security
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 
 ---
 
-## Languages
+## 🏠 Home Lab
 
-| Language | Proficiency |
-|----------|------------|
-| 🇫🇷 French | Native |
-| 🇬🇧 English | Professional Working Proficiency (≈ B2)|
-| 🇪🇸 Spanish | Basic Knowledge (A1–A2)|
+A personal infrastructure environment used for learning systems, networking, and cybersecurity concepts in a real setup.
+
+### 🧱 Architecture
+
+- Segmented VLAN design (clients / servers / monitoring / transit)
+- Inter-VLAN routing controlled via firewall policies
+- Internal services + remote access via VPN
+
+### ⚙️ Infrastructure
+
+| Role | Hardware | Purpose |
+|------|----------|--------|
+| 🔥 Firewall | Netgear FVS338 | Network filtering & routing |
+| 🔀 Core Switch | HP ProCurve 2910al-24G | VLAN trunking (802.1Q) |
+| 🔌 Access Switch | TP-Link Omada ES205G | Edge connectivity |
+| 🍓 Mini Server | Raspberry Pi 4 | Pi-hole · Netdata · Nginx · Tailscale · ttyd |
+| 🖥️ Virtualization Host | Dell Latitude 5290 | Proxmox VE |
 
 ---
 
-## Home Lab
+## 🔬 Focus Areas
 
-Personal infrastructure built around segmented VLANs (transit · clients · servers · monitoring).
+- Network design & segmentation (VLANs, routing, firewall rules)
+- Linux system administration
+- Basic penetration testing & traffic analysis
+- Virtualization & service deployment
+- Self-hosted infrastructure (Pi-hole, VPN, monitoring)
 
-| Role | Hardware | Services |
-|---|---|---|
-| Firewall | Netgear FVS338 | Filtering, inter-VLAN routing |
-| Core Switch | HP ProCurve 2910al-24G | 802.1Q trunking |
-| Access Switch | TP-Link Omada ES205G | — |
-| Raspberry Pi Server | Raspberry Pi 4 | Pi-hole · Netdata · Nginx · Tailscale · ttyd |
-| Hypervisor | Dell Latitude 5290 | Proxmox VE |
+---
+
+## 📌 Projects
+
+### 🏠 Home Lab Infrastructure
+- VLAN-based network segmentation
+- Self-hosted services (DNS, monitoring, web server)
+- Remote access via secure VPN (Tailscale)
+- Virtualized environment with Proxmox
+
+### 🔐 Cybersecurity Labs
+- Network traffic analysis with Wireshark
+- Kali Linux practice environments
+- Basic penetration testing scenarios
+- Service exposure & vulnerability testing (local lab)
+
+---
+
+## 🎯 Goals
+
+- Obtain BTS SIO SISR diploma
+- Strengthen Linux & network administration skills
+- Improve cybersecurity fundamentals (blue team + red team basics)
+- Build a realistic SOC-style home lab
+- Progress toward junior sysadmin / network technician role
+
+---
+
+## 🌍 Languages
+
+| Language | Level |
+|----------|------|
+| 🇫🇷 French | Native |
+| 🇬🇧 English | B2 |
+| 🇪🇸 Spanish | Basic (A1–A2) |
 
 ---
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjiexe28&show_icons=true&hide_border=true&theme=default&hide_title=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjiexe28&show_icons=true&hide_border=true)
 
 </div>
