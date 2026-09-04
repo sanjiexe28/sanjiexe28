@@ -1,40 +1,40 @@
 <div align="center">
 
 # Sanji.exe
-> BTS SIO option SISR Student | Systems & Networks | Cybersecurity Enthusiast | Home Lab Builder
+
+BTS SIO SISR Student | Systems & Networks | Learning Cybersecurity
 
 </div>
 
 ---
 
-## 🧠 About Me
+## About Me
 
-Currently studying a BTS SIO (Services Informatiques aux Organisations), specialization SISR (Systems & Network Infrastructure Solutions).
+I'm currently studying for a BTS SIO, specializing in SISR (Systems, Networks and Infrastructure).
 
-I am passionate about:
-- Systems administration (Linux/Windows)
-- Network architecture & segmentation
-- Cybersecurity (offensive & defensive basics)
-- Web development & scripting
+I'm interested in systems administration, networking, cybersecurity and web development.
 
-I actively build and maintain a **home lab environment** to experiment with real-world infrastructure, networking, and security scenarios.
+I'm still learning and improving my skills through school projects, personal projects and my home lab.
 
 ---
 
-## 🎓 Education
+## Education
 
-- 🎓 BTS SIO — SISR  
-  Systems, networks, infrastructure administration  
-- 🔐 Self-learning Cybersecurity  
-  Pentesting basics, traffic analysis, network security  
-- 🎮 FiveM Development (Lua)  
-  QBCore / ESX scripting & server customization  
+- BTS SIO — SISR
+  Systems, networks and infrastructure
+
+- Cybersecurity
+  Self-learning and beginner labs
+
+- FiveM Development
+  Lua, QBCore / ESX
 
 ---
 
-## 🧰 Technical Skills
+## Skills
 
-### 💻 Development
+### Development
+
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -42,85 +42,79 @@ I actively build and maintain a **home lab environment** to experiment with real
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### 🖧 Systems & Networking
+### Systems & Networking
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-242424?style=flat-square&logo=windows&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-242424?style=flat-square)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-242424?style=flat-square&logo=cisco&logoColor=white)
 
-### 🔐 Security
+### Security
+
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 
 ---
 
-## 🏠 Home Lab
+## Home Lab
 
-A personal infrastructure environment used for learning systems, networking, and cybersecurity concepts in a real setup.
+I have a small home lab that I use to practice what I learn.
 
-### 🧱 Architecture
+### Hardware
 
-- Segmented VLAN design (clients / servers / monitoring / transit)
-- Inter-VLAN routing controlled via firewall policies
-- Internal services + remote access via VPN
+| Device | Use |
+|--------|-----|
+| Netgear FVS338 | Firewall |
+| HP ProCurve 2910al-24G | Switch / VLANs |
+| TP-Link Omada ES205G | Network switch |
+| Raspberry Pi 4 | Various services |
+| Dell Latitude 5290 | Proxmox |
 
-### ⚙️ Infrastructure
+### Services
 
-| Role | Hardware | Purpose |
-|------|----------|--------|
-| 🔥 Firewall | Netgear FVS338 | Network filtering & routing |
-| 🔀 Core Switch | HP ProCurve 2910al-24G | VLAN trunking (802.1Q) |
-| 🔌 Access Switch | TP-Link Omada ES205G | Edge connectivity |
-| 🍓 Mini Server | Raspberry Pi 4 | Pi-hole · Netdata · Nginx · Tailscale · ttyd |
-| 🖥️ Virtualization Host | Dell Latitude 5290 | Proxmox VE |
-
----
-
-## 🔬 Focus Areas
-
-- Network design & segmentation (VLANs, routing, firewall rules)
-- Linux system administration
-- Basic penetration testing & traffic analysis
-- Virtualization & service deployment
-- Self-hosted infrastructure (Pi-hole, VPN, monitoring)
+- Pi-hole
+- Nginx
+- Proxmox
 
 ---
 
-## 📌 Projects
+## Projects
 
-### 🏠 Home Lab Infrastructure
-- VLAN-based network segmentation
-- Self-hosted services (DNS, monitoring, web server)
-- Remote access via secure VPN (Tailscale)
-- Virtualized environment with Proxmox
+### Home Lab
 
-### 🔐 Cybersecurity Labs
-- Network traffic analysis with Wireshark
-- Kali Linux practice environments
-- Basic penetration testing scenarios
-- Service exposure & vulnerability testing (local lab)
+My personal lab where I experiment with networks, Linux, Proxmox and self-hosted services.
 
----
+### BTS SIO Projects
 
-## 🎯 Goals
+Projects completed during my BTS SIO training.
 
-- Obtain BTS SIO SISR diploma
-- Strengthen Linux & network administration skills
-- Improve cybersecurity fundamentals (blue team + red team basics)
-- Build a realistic SOC-style home lab
-- Progress toward junior sysadmin / network technician role
+- Network infrastructure
+- Wi-Fi deployment
+- System administration
+- Documentation
 
 ---
 
-## 🌍 Languages
+## Goals
+
+- Finish my BTS SIO SISR
+- Improve my networking skills
+- Learn more about Linux
+- Learn more about cybersecurity
+- Continue building my home lab
+- Work in systems and networks
+
+---
+
+## Languages
 
 | Language | Level |
-|----------|------|
-| 🇫🇷 French | Native |
-| 🇬🇧 English | B2 |
-| 🇪🇸 Spanish | Basic (A1–A2) |
+|----------|-------|
+| French | Native |
+| English | B2 |
+| Spanish | Basic |
 
 ---
 
